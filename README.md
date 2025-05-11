@@ -31,3 +31,5 @@ O objetivo deste portfólio é:
 ---
 
 Sinta-se à vontade para explorar cada projeto, conferir os códigos e documentações. Feedbacks são bem-vindos!
+## Meios de Contato
+https://www.linkedin.com/in/henrique-antonio-412a6b339/
