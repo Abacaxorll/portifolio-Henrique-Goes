@@ -6,12 +6,10 @@ Este repositório contém os arquivos e a documentação do projeto de implanta�
 O objetivo deste projeto foi realizar a implantação completa do PortfolioHUB, integrando ferramentas do Google Workspace, Git/GitHub, e aplicando práticas de segurança, com o apoio da IA Google GEMINI.
 
 ## Acesso ao PortfolioHUB
-*(Se você hospedou o PortfolioHUB, por exemplo no GitHub Pages, coloque o link aqui. Ex: "O PortfolioHUB pode ser acessado em: [link do seu portfoliohub]")*
-*(Se não estiver hospedado, você pode mencionar: "Os arquivos para visualização do PortfolioHUB encontram-se neste repositório.")*
+*Os arquivos para visualização do PortfolioHUB encontram-se neste repositório.
 
 ## Documentação Completa
 A documentação detalhada do processo de implantação, incluindo todas as etapas, configurações, e a apresentação final, está disponível no arquivo PDF submetido na plataforma de entrega do CEUB.
-*(Opcional: Se você hospedar o PDF em algum lugar público como o Google Drive e quiser linkar, pode colocar o link aqui, mas o PDF principal é o da entrega oficial).*
 
 ## Ferramentas Utilizadas
 * Google Workspace (Drive, Calendar)
