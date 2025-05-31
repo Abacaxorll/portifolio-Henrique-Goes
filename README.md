@@ -1,35 +1,28 @@
-# Portfólio Pessoal – Henrique Góes
+# Projeto PortfolioHUB - Desafio Final Bootcamp I CEUB 2025
 
-## 👋 Sobre mim
+Este repositório contém os arquivos e a documentação do projeto de implantação do PortfolioHUB, desenvolvido como parte do Desafio Final do Bootcamp I do CEUB (2025), sob orientação do Prof. Marcelo Carboni Gomes.
 
-Olá! Sou Henrique Góes, acadêmico do curso de Ciência de Dados e Machine Learning. Estou no primeiro semestre nma faculdade do CEUB.
+## Descrição do Projeto
+O objetivo deste projeto foi realizar a implantação completa do PortfolioHUB, integrando ferramentas do Google Workspace, Git/GitHub, e aplicando práticas de segurança, com o apoio da IA Google GEMINI.
 
-Este repositório é dedicado à organização e divulgação dos meus projetos desenvolvidos ao longo da formação acadêmica, assim como iniciativas pessoais voltadas à prática e aprofundamento de habilidades em ciência de dados, programação e engenharia de software.
+## Acesso ao PortfolioHUB
+*(Se você hospedou o PortfolioHUB, por exemplo no GitHub Pages, coloque o link aqui. Ex: "O PortfolioHUB pode ser acessado em: [link do seu portfoliohub]")*
+*(Se não estiver hospedado, você pode mencionar: "Os arquivos para visualização do PortfolioHUB encontram-se neste repositório.")*
 
----
+## Documentação Completa
+A documentação detalhada do processo de implantação, incluindo todas as etapas, configurações, e a apresentação final, está disponível no arquivo PDF submetido na plataforma de entrega do CEUB.
+*(Opcional: Se você hospedar o PDF em algum lugar público como o Google Drive e quiser linkar, pode colocar o link aqui, mas o PDF principal é o da entrega oficial).*
 
-## 🎯 Objetivo deste Portfólio
-
-O objetivo deste portfólio é:
-
-- Consolidar meus conhecimentos técnicos em projetos práticos;
-- Demonstrar minha evolução e organização em versionamento com Git e GitHub;
-- Disponibilizar publicamente trabalhos acadêmicos e iniciativas pessoais;
-- Facilitar minha conexão com oportunidades profissionais, por meio da integração com o LinkedIn e outras plataformas.
-
----
-
-## 📁 Projetos
-
-### Projetos Acadêmicos
-
-### Projetos Pessoais
+## Ferramentas Utilizadas
+* Google Workspace (Drive, Calendar)
+* Git & GitHub
+* Google GEMINI (como ferramenta de apoio e guia)
 
 
-
+## Processo de Versionamento e Colaboração
+Este projeto utilizou Git para controle de versão e GitHub para hospedagem do repositório. As práticas incluíram:
+* Commits atômicos com mensagens descritivas.
+* Uso de branches para desenvolvimento (ex: `develop`) e integração na branch `main`. (Adapte se você usou)
 
 ---
-
-Sinta-se à vontade para explorar cada projeto, conferir os códigos e documentações. Feedbacks são bem-vindos!
-## Meios de Contato
-https://www.linkedin.com/in/henrique-antonio-412a6b339/
+**Aluno:** Henrique Góes
